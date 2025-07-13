@@ -1,0 +1,9 @@
+[package]
+name = "icebug-2025-07-12"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+axum = "0.8"
+cookie = "0.18"
+chrono = "0.4"
